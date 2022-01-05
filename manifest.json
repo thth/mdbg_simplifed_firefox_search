@@ -3,7 +3,7 @@
   "name": "MDBG Simplified Chinese Dictionary Search",
   "version": "1.0",
 
-  "description": "Search engine extension for the MDBG Simplified Chinese Dictionary",
+  "description": "Search engine add-on for the MDBG Simplified Chinese Dictionary",
 
   "icons": {
     "48": "icons/mdbg48.png",
